@@ -10,31 +10,31 @@ const services = [
     id: "01",
     title: "Garage Finishes",
     description: "Heavy-duty flake systems resistant to hot tires, oil, and salt.",
-    image: "/service-garage.jpg", 
+    image: "/service-garage.png", 
   },
   {
     id: "02",
     title: "Metallic & Marble",
     description: "Artistic, flowing designs that mimic liquid metal or high-end stone.",
-    image: "/service-metallic.jpg", 
+    image: "/service-metallic.png", 
   },
   {
     id: "03",
     title: "Commercial Spaces",
     description: "USDA-approved, slip-resistant coatings for kitchens and warehouses.",
-    image: "/service-commercial.jpg", 
+    image: "/service-commercial.png", 
   },
   {
     id: "04",
     title: "Basement Sealing",
     description: "Moisture-vapor barriers that turn damp basements into livable space.",
-    image: "/service-basement.jpg", 
+    image: "/service-basement.png", 
   },
   {
     id: "05",
     title: "Outdoor Resurfacing",
     description: "UV-stable polyaspartic coatings for patios, driveways, and pool decks.",
-    image: "/service-outdoor.jpg", 
+    image: "/service-outdoor.png", 
   },
 ];
 
