@@ -96,7 +96,7 @@ export default function Hero() {
                     <CheckCircle2 size={14} className="text-[#FFD60A]" /> 24h Turnaround
                 </span>
                 <span className="flex items-center gap-2">
-                    <CheckCircle2 size={14} className="text-[#FFD60A]" /> 20y Warranty
+                    <CheckCircle2 size={14} className="text-[#FFD60A]" /> 10y Warranty
                 </span>
             </div>
 
