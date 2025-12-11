@@ -76,14 +76,14 @@ export default function Footer() {
               Contact
             </h4>
             
-            <a href="mailto:hello@epoxyman.ca" className="group flex items-center gap-3 text-gray-400 hover:text-white transition-colors">
+            <a href="mailto:richardepoxyman@outlook.com" className="group flex items-center gap-3 text-gray-400 hover:text-white transition-colors">
                 <Mail size={16} className="group-hover:text-[#FFD60A] transition-colors" />
-                <span className="text-sm">hello@epoxyman.ca</span>
+                <span className="text-sm">richardepoxyman@outlook.com</span>
             </a>
 
-            <a href="tel:+16045550198" className="group flex items-center gap-3 text-gray-400 hover:text-white transition-colors">
+            <a href="tel:+12507020467" className="group flex items-center gap-3 text-gray-400 hover:text-white transition-colors">
                 <Phone size={16} className="group-hover:text-[#FFD60A] transition-colors" />
-                <span className="text-sm">+1 (604) 555-0198</span>
+                <span className="text-sm">+1 (250) 702-0467</span>
             </a>
 
             <div className="group flex items-center gap-3 text-gray-400">

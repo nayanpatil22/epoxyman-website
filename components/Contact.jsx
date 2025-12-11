@@ -72,8 +72,8 @@ export default function Estimate() {
           </div>
 
           <div className="grid gap-6 md:gap-8 border-l border-white/10 pl-6 md:pl-8">
-            <ContactDetail icon={<Phone size={20} />} label="Phone" value="+1 (604) 555-0198" href="tel:+16045550198"/>
-            <ContactDetail icon={<Mail size={20} />} label="Email" value="hello@epoxyman.ca" href="mailto:hello@epoxyman.ca"/>
+            <ContactDetail icon={<Phone size={20} />} label="Phone" value="+1 (250) 702-0467" href="tel:+12507020467"/>
+            <ContactDetail icon={<Mail size={20} />} label="Email" value="richardepoxyman@outlook.com" href="mailto:richardepoxyman@outlook.com"/>
             <ContactDetail icon={<MapPin size={20} />} label="Service Area" value="Vancouver & Lower Mainland" />
           </div>
         </div>
